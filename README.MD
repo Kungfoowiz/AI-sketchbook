@@ -2,8 +2,7 @@
 This is my sketchbook for learning, developing, and testing AI.  
 
 ## Optimisation  
-This page explains how I make cost-efficient AI code and speed up AI execution.  
-[AI optimisation](AI-optimisation.md)
+[This page explains how I make cost-efficient AI code and speed up AI execution.](AI-optimisation.md)  
 
 ## 💫 Learning faster
 [This page explains methods for improving learning speed.](Learning-faster.md) 
