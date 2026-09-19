@@ -1,13 +1,16 @@
 ---  
 name: engine  
-description: Ask the user for a questionnaire file and target folder. Answer the questions in the questionnaire file by using the files located within the target folder. Combine and review the answers into an output file.  
+description: Ask the user for a question file and target folder. Answer all questions from file against the target folder. Combine and review the answers into one output file.  
 disable-model-invocation: true  
 ---  
 
 # Task  
-1. ALWAYS confirm with the user the exact questionnaire file and target folder.  
-2. Answer each question by running 3 process agents, 1 combine agent, and then 3 review agents, in order.  
-3. Document in the `combined-answers.md` file: how much it cost to run, the total time taken, and how many tokens were used.  
+1. ALWAYS confirm with the user:
+1.1. Target name. Show user example: `Name`.
+1.2. Input questions. Show user exmaple: 
+5.    the exact questionnaire file and target folder.  
+6. Answer each question by running 3 process agents, 1 combine agent, and then 3 review agents, in order.  
+7. Document in the `combined-answers.md` file: how much it cost to run, the total time taken, and how many tokens were used.  
 
 # Guardrails  
 1. Run `process-1.md`, then `process-2.md`, then `process-3.md`, before running `combine.md`.  
