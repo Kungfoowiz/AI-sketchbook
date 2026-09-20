@@ -1,6 +1,6 @@
 ---  
 name: engine  
-description: Multi-agent AI that asks the user for a numbered list of questions in a file and a target folder of information. The AI will then answer all the questions from file, with 3 subagents: process-1 for first third of questions, process-2 for middle third of questions, process-3 for last third of questions. The 3 process subagents will answer questions on the information in the target folder. The AI will then combine all answers into a single output file, with 1 subagent: combine. Then the AI will review all the answers in the single output file, with 3 subagents: review-1 for coherency, review-2 for sourcing, and review-3 for missed information.   
+description: Multi-agent AI that asks the user for a numbered list of questions in a file and a target folder of information. The AI will then answer all the questions from file, with 3 subagents, process-1 for first third of questions, process-2 for middle third of questions, process-3 for last third of questions. The 3 process subagents will answer questions on the information in the target folder. The AI will then combine all answers into a single output file, with 1 subagent, combine. Then the AI will review all the answers in the single output file, with 3 subagents, review-1 for coherency, review-2 for sourcing, and review-3 for missed information.   
 disable-model-invocation: true  
 ---  
 
