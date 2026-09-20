@@ -1,6 +1,6 @@
 ---  
 name: engine  
-description: Ask the user for a question file and target folder. Answer all questions from file against the target folder. Combine and review the answers into one output file.  
+description: Multi-agent AI that asks the user for a numbered list of questions in a file and a target folder of information. The AI will then answer all the questions from file, with 3 subagents: process-1 for first third of questions, process-2 for middle third of questions, process-3 for last third of questions. The 3 process subagents will answer questions on the information in the target folder. The AI will then combine all answers into a single output file, with 1 subagent: combine. Then the AI will review all the answers in the single output file, with 3 subagents: review-1 for coherency, review-2 for sourcing, and review-3 for missed information.   
 disable-model-invocation: true  
 ---  
 
@@ -21,21 +21,22 @@ disable-model-invocation: true
   4.3. Tokens used.
 
 # Guardrails  
-1. Run each process subagent on Sonnet model, in order, using files as promots: `process-1.md`, then `process-2.md`, then `process-3.md`.
+1. Run 3 **process** subagents on Sonnet model, in order, using files as prompts: `process-1.md`, then `process-2.md`, then `process-3.md`.
   1.1. Give each process subagent the questions and target folder only.
 
-2. After all process subagents finish, then run combine subagent on Haiku model, using file 
+2. After all process subagents finish, then run the **combine** subagent on Haiku model, using file prompt `combine.md`. 
+  2.1. Give the combine subagent all process output files only.  
 
-3. After all 
+3. After the combine subagent finishes, run 3 **review** subagents on Opus model, in order, using files as prompts: `review-1.md`, then `review-2.md`, then `review-3.md`.
+  4.1. Give each review subagent the questions, target folder, and the combined answers file only.  
 
+4. All review subagents can flag problems, but do not block finishing all reviews.  
 
-4. After `combine.md` finishes, run `review-1.md`, then `review-2.md`, and then `review-3.md`.  
-5. Each review flags problems and does not block.  
-6. No review retries a failed check.  
-7. Rules are in `reference/rules.md`.  
+5. No review subagent can retry a failed review.  
+
+6. Rules must ALWAYS be followed in `reference/rules.md`.  
 
 # Exit criteria  
-1. All 3 process agents have finished answering the questions.  
-2. All 3 review agents have finished reviewing the combined answers.  
-3. All information added to the section `# Status, cost, time, and tokens used` in `combined-answers.md` file.  
-
+1. All 7 subagents are finished.  
+2. Target name, and question, target, and combined answers locations are added to the combined answers file.  
+3. Subagent statuses, total time, cost, and tokens used information are added to the combined answers file.  
