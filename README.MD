@@ -1,4 +1,4 @@
-# ⚡️ AI sketchbook
+# ✏️ AI sketchbook
 This is my sketchbook for AI.  
 
 ### Clearly specify "what did what"  
@@ -7,26 +7,22 @@ I want to communicate unambiguously, so I must clearly specify **what did what**
 
 ### Do plan, run, and review.
 
-## AI structure
+## 🤖 AI structure
 
-### Task 
-Say what I want.  
+### ⚡️ Task 
+1. Say what I want.  
 
-### Guardrails
-Give examples of what I want.  
-Say what I do not want.  
+### 🔒 Guardrails
+1. Give examples of what I want.  
+2. Say what I do not want.  
 
-### Exit criteria 
-Say what the result must be.  
+### ➡️ Exit criteria 
+1. Say what the result must be.  
 
-## AI testing 
+## 🧪 AI testing 
 1. Get AI to review my code.  
 2. Write my own test and get AI to run it.  
 3. Fix my code to pass.  
-
-## AI flows must:  
-🔤 Be written in simple, plain English  
-📐 Have structure when precision is needed, i.e. numbered list, examples.    
 
 ## AI flows should be **RAAM**:  
 🪨 **R**esilient and hard to break   
