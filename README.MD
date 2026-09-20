@@ -5,7 +5,7 @@ This is my sketchbook for AI.
 I want to communicate unambiguously, so I must clearly specify **what did what**.  
 [This page shows the contrast between ambiguous and unambiguous language.](Unambiguous-language.md)  
 
-### I plan, run, and review.
+### Do plan, run, and review.
 
 ## AI structure
 
