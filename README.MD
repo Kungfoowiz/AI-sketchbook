@@ -1,10 +1,10 @@
 # ✏️ AI sketchbook
 
-### Clearly specify "what did what"  
+## 👓 Clearly specify "what did what"  
 I want to communicate unambiguously, so I must clearly specify **what did what**.  
 [This page shows the contrast between ambiguous and unambiguous language.](Unambiguous-language.md)  
 
-### ⁉️ Don't know where to start.
+## ⁉️ Don't know where to start.
 Remember: Plan. Run. Review.  
 
 ## 🤖 AI structure
@@ -24,7 +24,7 @@ Remember: Plan. Run. Review.
 2. Write my own test and get AI to run it.  
 3. Fix my code to pass.  
 
-## AI flows should be **RAAM**:  
+## 🔀 AI flows should be **RAAM**:  
 🪨 **R**esilient and hard to break   
 ➿ **A**daptable and flexible to changes  
 ✅ **A**uditable and easy to check  
