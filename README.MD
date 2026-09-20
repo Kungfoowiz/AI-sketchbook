@@ -1,22 +1,22 @@
 # ⚡️ AI sketchbook
 This is my sketchbook for AI.  
 
-### Clearly specify "what did what"  
+#### Clearly specify "what did what"  
 I want to communicate unambiguously, so I must clearly specify **what did what**.  
 [This page shows the contrast between ambiguous and unambiguous language.](Unambiguous-language.md)  
 
-### I plan, run, and review.
+#### I plan, run, and review.
 
 ## AI structure
 
-### Task 
+#### Task 
 Say what I want.  
 
-### Guardrails
+#### Guardrails
 Give examples of what I want.  
 Say what I do not want.  
 
-### Exit criteria 
+#### Exit criteria 
 Say what the result must be.  
 
 ## AI testing 
