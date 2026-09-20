@@ -9,7 +9,7 @@ disable-model-invocation: true
   1.1. Target name. Show user example: `Name`
   1.2. Input questions. Show user exmaple: `C:\questions.md`
   1.3. Target folder. Show user example: `C:\target`  
-  1.3. Combined answers file. Show user example: `C:\combined-answers.md`
+  1.4. Combined answers file. Show user example: `C:\combined-answers.md`
 
 3. Create the combined answers file and set: target name, and question, target, and output locations.
 

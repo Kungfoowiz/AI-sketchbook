@@ -1,18 +1,25 @@
-# Status, cost, time, and tokens used  
-`Combine status`  
-`Agent review-1 status`  
-`Agent review-2 status`  
-`Agent review-3 status`  
-`Cost in EUR, GBP, USD.`  
-`Total running time in mm:ss`  
-`Number of tokens used`  
+# Target name  
 
-# Process-1 (first third)  
-`process-1 agent output`  
+## Inputs  
+Input question full file path location  
+Target folder full folder path location  
+Combined answers file full file path location  
 
-# Process-2 (middle third)  
-`process-2 agent output`  
+## Total running time in mm:ss  
 
-# Process-3 (last third)  
-`process-3 agent output`  
+## Cost in EUR, GBP, USD.
+
+## Number of tokens used 
+
+## Subagent statuses
+Combine status  
+Review-1 status  
+Review-2 status  
+Review-3 status  
+
+## Process-1 first third  
+
+## Process-2 middle third  
+
+## Process-3 last third  
 
