@@ -1,13 +1,11 @@
 # ✏️ AI sketchbook
-This is my sketchbook for AI.  
 
 ### Clearly specify "what did what"  
 I want to communicate unambiguously, so I must clearly specify **what did what**.  
 [This page shows the contrast between ambiguous and unambiguous language.](Unambiguous-language.md)  
 
-### Do plan, run, and review.  
-If I do not know what to do, start planning, and run it.  
-Then review and check everything.  
+### ⁉️ Don't know where to start.
+Remember: Plan. Run. Review.  
 
 ## 🤖 AI structure
 
