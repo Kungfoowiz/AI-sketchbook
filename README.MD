@@ -23,9 +23,9 @@ Remember:
 1. Say what the result must be.  
 
 ## 🧪 AI testing 
-1. Get AI to review my code.  
-2. Write my own test and get AI to run it.  
-3. Fix my code to pass.  
+1. Do an **AI code review**.  
+2. Write **my own test** and get AI to run it.  
+3. **Fix my code** to pass.  
 
 ## 🔀 AI flows should be **RAAM**:  
 🪨 **R**esilient and hard to break   
