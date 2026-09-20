@@ -4,7 +4,7 @@
 I want to communicate unambiguously, so I must clearly say **what did what**.  
 [This page shows the contrast between ambiguous and unambiguous language.](Unambiguous-language.md)  
 
-## ⁉️ Don't know where to start.
+## ⁉️ Feeling lost
 Remember: Plan. Run. Review.  
 
 ## 🤖 AI structure
