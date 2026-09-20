@@ -30,11 +30,4 @@ Remember: Plan. Run. Review.
 ✅ **A**uditable and easy to check  
 🔧 **M**aintainable and simple to understand  
 
-## 📑 Other guides
-[This page explains how I make cost-efficient AI code and speed up AI execution.](AI-optimisation.md)  
-[This page explains methods for improving learning speed.](Learning-faster.md) 
-[Unambiguous language](Unambiguous-language.md)  
-[Claude AI memory and reusability](Claude-AI-knowledge-and-reusability.md)  
-[Learning faster](Learning-faster.md)  
-
 
