@@ -24,11 +24,11 @@ Say what the result must be.
 2. Write my own test and get AI to run it.  
 3. Fix my code to pass.  
 
-### AI flows must:  
+## AI flows must:  
 🔤 Be written in simple, plain English  
 📐 Have structure when precision is needed, i.e. numbered list, examples.    
 
-### AI flows should be **RAAM**:  
+## AI flows should be **RAAM**:  
 🪨 **R**esilient and hard to break   
 ➿ **A**daptable and flexible to changes  
 ✅ **A**uditable and easy to check  
