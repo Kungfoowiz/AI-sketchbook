@@ -1,32 +1,32 @@
-# ✨ AI sketchbook
-This is my sketchbook for learning, developing, and testing AI.  
+# ⚡️ AI sketchbook
+This is my sketchbook for AI.  
 
-## ❓ Clearly specify "what did what"  
-I want to communicate explicitly and unambiguously, so I must clearly specify **what did what**.  
+### Clearly specify "what did what"  
+I want to communicate unambiguously, so I must clearly specify **what did what**.  
 [This page shows the contrast between ambiguous and unambiguous language.](Unambiguous-language.md)  
 
-## ⚡️ Plan, run, review
+### I plan, run, and review.
 
-## 🔢 AI instruction
+## AI structure
 
 ### Task 
-What I want.  
+Say what I want.  
 
 ### Guardrails
-Examples of what I want.  
-What I do not want.  
+Give examples of what I want.  
+Say what I do not want.  
 
 ### Exit criteria 
-What expected result I want.  
+Say what the result must be.  
 
 ## AI testing 
-1. Get AI to review the code.  
+1. Get AI to review my code.  
 2. Write my own test and get AI to run it.  
 3. Fix my code to pass.  
 
 ## AI flows must:  
 🔤 Be written in simple, plain English  
-📐 Have structure when precision is needed  
+📐 Have structure when precision is needed, i.e. numbered list, examples.    
 
 ## AI flows should be **RAAM**:  
 🪨 **R**esilient and hard to break   
