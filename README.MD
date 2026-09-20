@@ -9,14 +9,14 @@ I want to communicate unambiguously, so I must clearly specify **what did what**
 
 ## AI structure
 
-#### Task 
+### Task 
 Say what I want.  
 
-#### Guardrails
+### Guardrails
 Give examples of what I want.  
 Say what I do not want.  
 
-#### Exit criteria 
+### Exit criteria 
 Say what the result must be.  
 
 ## AI testing 
