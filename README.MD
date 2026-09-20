@@ -1,6 +1,6 @@
 # ✏️ AI sketchbook
 
-## 👁️‍🗨️ Clearly specify "what did what"  
+## 👁 Clearly say "what did what"  
 I want to communicate unambiguously, so I must clearly specify **what did what**.  
 [This page shows the contrast between ambiguous and unambiguous language.](Unambiguous-language.md)  
 
