@@ -6,9 +6,9 @@ I want to communicate unambiguously, so I must clearly say **what did what**.
 
 ## ⁉️ Feeling lost  
 Remember:  
-1. 📐 Plan  
-2. ▶️ Run  
-3. ❌ Review  
+1. 📐Plan  
+2. ▶️Run  
+3. ❌Review  
 
 ## 🤖 AI structure
 
