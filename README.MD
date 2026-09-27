@@ -17,7 +17,7 @@ Remember:
 
 ### 🔒 Guardrails
 1. Give examples of what I want.  
-2. Say what I do not want.  
+2. Say what I do not want, with limits and rules.  
 
 ### ➡️ Exit criteria 
 1. Say what the result must be.  
