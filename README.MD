@@ -17,7 +17,9 @@ Remember:
 
 ### 🔒 Guardrails
 1. Give examples of what I want.  
-2. Say what I do not want, with limits and rules.  
+2. Say what I do not want.
+3. Set limits: time budgets, maximum word counts, specific files only.
+4. Create rules: verified information, output casing, banned grammar.  
 
 ### ➡️ Exit criteria 
 1. Say what the result must be.  
