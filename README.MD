@@ -4,8 +4,7 @@
 I want to communicate unambiguously, so I must clearly say **what did what**.  
 [This page shows the contrast between ambiguous and unambiguous language.](Unambiguous-language.md)  
 
-## ⁉️ Feeling lost
-Remember:  
+## ⁉️ Feeling lost, remember:
 1. Plan  
 2. Run  
 3. Review  
