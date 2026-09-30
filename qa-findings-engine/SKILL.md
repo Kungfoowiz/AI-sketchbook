@@ -5,7 +5,7 @@ disable-model-invocation: true
 ---
 
 # Task  
-1. Ask the user for:
+1. Ask the user for:  
   1.1. Required target folder.  
   1.1. Optional target documentation folder.  
   1.2. Optional current test strategy document.
