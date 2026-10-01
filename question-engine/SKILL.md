@@ -5,7 +5,7 @@ disable-model-invocation: true
 ---
 
 # Task  
-1. ALWAYS ask the user for the:
+1. ALWAYS ask the user for the:  
   1.1. Target name. Show user example: `Name`  
   1.2. Target folder. Show user example: `C:\target`  
   1.3. Questions file. Show user example: `C\questions.md`  
