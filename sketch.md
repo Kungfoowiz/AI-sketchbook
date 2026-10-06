@@ -1,6 +1,6 @@
 
 | Recommended Book | Your Understanding | The Core Insight | How to Apply it to AI Today |
-| | | | |
+| - | - | - | - |
 | ***Domain-Driven Design*** | **Definitions via a glossary** | Code should perfectly mirror the real-world business language, avoiding generic, confusing terms. | **Create a `GLOSSARY.md` file.** Define your exact business entities (e.g., `PremiumUser`, `TrialPeriod`). Attach this file to your prompt context so the AI uses your exact names rather than making up its own. |
 | ***A Philosophy of Software Design*** | **Simpler external interfaces for complex systems** | The best modules are "deep": they hide complex implementation details behind a very simple, easy-to-use interface. | **Keep your code modular and hidden.** Give the AI a clean, single-function interface to interact with. Do not let the AI see or modify the inner chaos of a module unless it absolutely needs to fix a bug inside it. |
 | ***Test-Driven Development: By Example*** | **Red tests, green tests, then optimize** | You cannot safely write code until you have a precise, automated way to prove that the code actually works. | **Lock the AI into a test loop.** Paste your existing testing suite into the prompt. Command the AI: *"Write the test first. Do not generate the feature code until I run the test, show you it fails, and tell you to make it pass."* |
