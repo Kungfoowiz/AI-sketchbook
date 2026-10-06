@@ -1,5 +1,5 @@
 
-| Recommended Book | Your Understanding | The Core Insight | How to Apply it to AI Today |
+| Recommended book | My understanding | Insight | How to apply it to AI |
 | - | - | - | - |
 | ***Domain-Driven Design*** | **Definitions via a glossary** | Code should perfectly mirror the real-world business language, avoiding generic, confusing terms. | **Create a `GLOSSARY.md` file.** Define your exact business entities (e.g., `PremiumUser`, `TrialPeriod`). Attach this file to your prompt context so the AI uses your exact names rather than making up its own. |
 | ***A Philosophy of Software Design*** | **Simpler external interfaces for complex systems** | The best modules are "deep": they hide complex implementation details behind a very simple, easy-to-use interface. | **Keep your code modular and hidden.** Give the AI a clean, single-function interface to interact with. Do not let the AI see or modify the inner chaos of a module unless it absolutely needs to fix a bug inside it. |
