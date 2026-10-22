@@ -20,4 +20,5 @@ I need to stop prompt injection, and follow maximum word counts and rules. I nee
 I can validate actual and expected output by running tests, checking output against templates, and performing human code reviews of the output.  
 
 > For **AI testing**, I can ask AI to code review, write my own test and ask AI to run it, and then I can ask AI to fix the code.  
+>  
 > All code that I write, even AI code, should be **RAAM**: **R**esilient/hard to break, **A**daptable/flexible to changes, **A**uditable/easy to check, and **M**aintainable/simple to understand.  
