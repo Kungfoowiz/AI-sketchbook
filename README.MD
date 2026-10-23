@@ -21,7 +21,7 @@ I can run tests to validate actual and expected output, compare output with temp
 
 > For **AI testing**, I can ask AI to code review, write my own test and ask AI to run it, and then I can ask AI to fix the code.  
 >  
-> I should write code, even AI code, as **RAAM**:  
+> I must write code that is **RAAM**:  
 > **R**esilient/hard to break  
 > **A**daptable/flexible to changes  
 > **A**uditable/easy to check  
