@@ -8,7 +8,7 @@ I can follow 3 cyclical steps, for most problems:
 2. ▶️ Run  
 3. ❌ Review  
 
-> I need to ask what, how, why questions, understand limits, and check output was correct:  
+> I must ask what, how, why questions, understand limits, and check output was correct:  
 
 🧠 **Task (what, how, why):** I must determine what is happening, and how and why it works.  
 I must deeply question, for example, I can go for a walk outside, and allow my subconscious mind to answer the questions of what, how, and why. I can check my understanding from a different perspective, using explain like I'm 5 (ELI5). I must clearly specify what or who does what, with examples of expected output, output specifications, and I must specify what I do not want. I can use iconified headings and precise instruction lists, for maximum readability.  
