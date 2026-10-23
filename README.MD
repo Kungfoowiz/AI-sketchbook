@@ -14,7 +14,7 @@ I can follow 3 cyclical steps, for most problems:
 I must deeply question, for example, I can go for a walk outside, and allow my subconscious mind to answer the questions of what, how, and why. I can check my understanding from a different perspective, using explain like I'm 5 (ELI5). I must clearly specify what or who does what, with examples of expected output, output specifications, and I must specify what I do not want. I can use iconified headings and precise instruction lists, for maximum readability.  
 
 ⚡ **Guardrails (limits):** I must specify what are the boundaries and limits.  
-I need to stop prompt injection, and follow maximum word counts and rules. I need to explain if something goes wrong, then what I will do about it.  
+I need to protect against prompt injection, follow maximum word counts and rules, and explain what I will do when something goes wrong.  
 
 🧪 **Exit criteria (check):** I must specify exactly how to check the output is correct.  
 I can validate actual and expected output by running tests, checking output against templates, and performing human code reviews of the output.  
