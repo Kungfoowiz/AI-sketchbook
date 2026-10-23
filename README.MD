@@ -3,7 +3,7 @@
 I want to speak unambiguously, so I must clearly specify **what did what**.  
 [This page shows more detail about unambiguous language.](Unambiguous-language.md)  
 
-I can ++follow++ 3 cyclical steps, for most problems:  
+I can follow 3 cyclical steps, for most problems:  
 1. 📐 Plan  
 2. ▶️ Run  
 3. ❌ Review  
