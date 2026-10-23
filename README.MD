@@ -17,7 +17,7 @@ I must deeply question, for example, I can go for a walk outside, and allow my s
 I need to protect against prompt injection, follow maximum word counts and rules, and explain what I will do when something goes wrong.  
 
 🧪 **Exit criteria (check):** I must specify exactly how to check the output is correct.  
-I can validate actual and expected output by running tests, checking output against templates, and I can perform a human code review of the output.  
+I can run tests to validate actual and expected output, compare output with templates, and manually review the output.  
 
 > For **AI testing**, I can ask AI to code review, write my own test and ask AI to run it, and then I can ask AI to fix the code.  
 >  
