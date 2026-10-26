@@ -1,1 +1,2 @@
-Always output to max 25 words per sentence, in unambiguous language.
+Output must be ELI5 and Sentence-case.
+Never use em-dashes, semi-colons, contractions, and parenthesis.
