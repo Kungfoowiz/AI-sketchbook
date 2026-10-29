@@ -1,3 +1,4 @@
+https://docs.getxray.app/space/XRAYCLOUD/44565278/Working+with+Automated+Tests
 https://docs.getxray.app/space/XRAYCLOUD/44565229/Using+Generic+Tests+for+Automation  
 https://docs.getxray.app/space/XRAY/301667997/Import+Execution+Results+-+REST#xUnit%C2%A0XML-results  
 
@@ -22,12 +23,12 @@ https://docs.getxray.app/space/XRAY/301667997/Import+Execution+Results+-+REST#xU
 ────────────────────────────────────────────────  
                      ⬇️  
 ────────────────────────────────────────────────  
-        5. Get xUnit XML test results           
-   Pipeline gets "test-results.xml"           
+        5. Get xUnit XML test result           
+   Pipeline gets "test-result.xml"           
 ────────────────────────────────────────────────  
                      ⬇️  
 ────────────────────────────────────────────────  
   6. Import test results to Jira Xray via API   
- Results update Jira story and test           
+ Results update Jira test           
 ────────────────────────────────────────────────  
   
