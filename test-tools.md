@@ -1,6 +1,6 @@
-# Test tools for backend API and Kafka testing on AWS
+# Test tools for AWS API and Kafka message testing  
 
-|Category|Tool|Role|Licence|AWS fit|
+| Category | Tool | Role | Cost | AWS fit |
 |-|-|-|-|-|
 |**Test framework**|xUnit|Runs unit, integration, API and Kafka tests in C#|Open source|Very good. It's just `dotnet test` in any CI|
 |**Test environment**|Testcontainers for .NET|Starts Kafka, Schema Registry and databases per test run|Open source|Good. Needs Docker, so use CodeBuild privileged mode or Docker-capable runners|
