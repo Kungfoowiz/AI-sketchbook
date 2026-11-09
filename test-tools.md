@@ -14,7 +14,7 @@
 ||OWASP ZAP|Runtime security scanning of the deployed API|Open source|Very good. Runs as a container in CI|
 |**Test management and Jira**|Jira Xray|Plans, cases, executions and reports in Jira|Commercial [Price per Jira user.](https://www.atlassian.com/software/jira/pricing)|Fine. SaaS, uploaded from AWS CI through its REST API|
 |**Reporting**|Allure Report|Developer and CI HTML reports|Open source|Very good. Static HTML in S3, served through CloudFront|
-||S3 (with versioning and Object Lock)|Immutable report archive|Pay per use|Native|
+||S3 (with versioning and Object Lock)|Immutable report archive|[Per month.](https://aws.amazon.com/s3/pricing)|Native|
 
 Licences and pricing have not been verified, so check them with each vendor before finalising.
 
