@@ -9,7 +9,12 @@
 |**Resilience**|Toxiproxy|Injects network faults (including for Kafka)|Open source|Good. Runs as a container or ECS sidecar|
 ||Polly (with chaos strategies)|In-app resilience policies and in-process faults|Open source|Very good. Library only, no AWS dependency|
 ||Chaos Mesh|Fault injection on Kubernetes|Open source|Good on EKS|
-||AWS Fault Injection Service|Faults on AWS resources|Pay per use|Native. Check which MSK and ECS actions it supports|
+||AWS Fault Injection Service (FIS)|Faults on AWS resources|Pay per use|Native.  
+[What is FIS?](https://docs.aws.amazon.com/fis/latest/userguide/what-is.html)  
+[Event/data layer chaos testing](https://www.conduktor.io/glossary/chaos-engineering-for-kafka)  
+[FIS lambda function testing](https://aws.amazon.com/blogs/mt/introducing-aws-fault-injection-service-actions-to-inject-chaos-in-lambda-functions)  
+[FIS partial failure testing](https://aws.amazon.com/blogs/mt/simulating-partial-failures-with-aws-fault-injection-service)  
+|
 |**Code quality and security**|SonarQube Cloud|Static analysis, coverage import and quality gates|Commercial for private code (check)|Very good. SaaS, so the pipeline just uploads results|
 ||OWASP ZAP|Runtime security scanning of the deployed API|Open source|Very good. Runs as a container in CI|
 |**Test management and Jira**|Jira Xray|Plans, cases, executions and reports in Jira|Commercial (per Jira user)|Fine. SaaS, uploaded from AWS CI through its REST API|
