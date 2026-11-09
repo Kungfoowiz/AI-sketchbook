@@ -1,4 +1,4 @@
-# Test tools for AWS API and Kafka message testing  
+# Amazon Web Services (AWS) API and event test tools.  
 
 | Category | Tool | Role | Cost | AWS fit |
 |-|-|-|-|-|
