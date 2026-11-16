@@ -24,3 +24,6 @@ I must check output is correct, and test and review it.
 > **A**daptable/flexible to changes  
 > **A**uditable/easy to check  
 > **M**aintainable/simple to understand  
+
+**Recommended books**  
+[This page shows more detail about recommended books.](Recommended-books.md)  
