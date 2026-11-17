@@ -10,9 +10,10 @@
 1. 📐 Plan  
 2. ▶️ Run  
 3. ❌ Review  
-> ❓ I must question deeply, add limits, then check output.  
 
 ### 📊 AI structure
+> ❓ I must question deeply, add limits, then check output.  
+
 🧠 **Task**  
 I must question deeply, say what does what, give examples, and say what I do not want. I can use emoji titles and lists, for max readability.  
 
