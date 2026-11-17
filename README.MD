@@ -1,5 +1,8 @@
 # 👁 AI sketchbook  
 
+## 📐 AI templates  
+[AI job that quickly performs a task using Boris Cherny's style.](Job.md)  
+
 I must say **what did what**.  
 [This page shows more detail about unambiguous language.](Unambiguous-language.md)  
 
