@@ -3,6 +3,8 @@
 ## 📐 AI templates  
 [AI job to quickly perform a task.](Job.md)  
 
+---
+
 ## I must say **what did what**.  
 [This page shows more detail about unambiguous language.](Unambiguous-language.md)  
 
