@@ -3,10 +3,10 @@
 ## 📐 AI templates  
 [AI job that quickly performs a task using Boris Cherny's style.](Job.md)  
 
-I must say **what did what**.  
+## I must say **what did what**.  
 [This page shows more detail about unambiguous language.](Unambiguous-language.md)  
 
-I can use 3 steps, for most problems:  
+## I can use 3 steps, for most problems:  
 1. 📐 Plan  
 2. ▶️ Run  
 3. ❌ Review  
